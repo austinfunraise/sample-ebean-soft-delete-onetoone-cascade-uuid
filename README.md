@@ -24,3 +24,5 @@ ERROR: operator does not exist: uuid = character varying
 	at org.example.domain.SoftDeleteCascadeTest.testDeleteParent(SoftDeleteCascadeTest.java:30)
 ```
 
+Ebean discussion available at https://groups.google.com/forum/#!topic/ebean/02vYaVhyld0 
+
